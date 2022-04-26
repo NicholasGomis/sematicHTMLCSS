@@ -11,7 +11,7 @@
 
 
 ## Context
-I will create a landing page website which will contain a navbar that direct the user to sections of the page.
+I will create a landing page website for my favourite football team, which will contain a navbar that direct the user to sections of the page.
 
 ## Outcomes
 
