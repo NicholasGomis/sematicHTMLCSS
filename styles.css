@@ -1,13 +1,33 @@
 h1{
-    color: red;
+    color: black;
+    font-size: 80px;
 }
 
+p{
+    font-size: 45px;
+}
+*{
+        margin: 0%;
+}
+.welcome{
+    text-align: center;
+    background-color: rgb(98, 161, 192);
+    display: block;
+    width: auto;
+
+}
 .navbar{
-    background-color: aquamarine;
+    background-color: skyblue;
     height: 100px;
     text-align: right;
-    font-size: 50px;
+    font-size: 30px;
     text-decoration: none;
+    border-bottom: 1px solid #466995;
+    margin: 0%;
+    padding: 30px 30px;
+    float: 40px;
+
+  
     
 
 }
