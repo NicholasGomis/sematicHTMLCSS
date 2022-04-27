@@ -16,6 +16,32 @@ p{
     width: auto;
   
 }
+.squad {
+    text-align: center;
+    background-color: red;
+    display: block;
+    width: auto;
+    height: auto;
+
+}
+
+.gallery {
+    text-align: center;
+    background-color: yellow;
+    display: block;
+    width: auto;
+    height: auto;
+
+}
+
+.palmares {
+    text-align: center;
+    background-color: blue;
+    display: block;
+    width: auto;
+    height: auto;
+
+}
 
 .welcome h1{
 z-index: 2;
