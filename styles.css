@@ -9,16 +9,30 @@ p{
 *{
         margin: 0%;
 }
-.welcome{
+#welcome{
     text-align: center;
     background-color: skyblue;
     display: block;
     width: auto;
   
 }
+
+#welcome .content h1{
+
+    border: 5px solid black;
+    width: 500px;
+    z-index: 2;
+    position: absolute;
+    margin: 0 auto;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 23px;
+  
+}
+
 .squad {
     text-align: center;
-    background-color: red;
+    background-color: skyblue;
     display: block;
     width: auto;
     height: auto;
@@ -27,7 +41,7 @@ p{
 
 .gallery {
     text-align: center;
-    background-color: yellow;
+    background-color: skyblue;
     display: block;
     width: auto;
     height: auto;
@@ -36,10 +50,11 @@ p{
 
 .palmares {
     text-align: center;
-    background-color: blue;
+    background-color: skyblue;
     display: block;
     width: auto;
     height: auto;
+    
 
 }
 
