@@ -9,24 +9,24 @@
 5. [Credits](#{Credits})
 
 
-#Wireframes
+## Wireframes
 
 <img src="https://i.ibb.co/SQFRkNF/Clean-Shot-2022-04-29-at-20-30-59-2x.png" alt="lowfidelitywf"/>
 
 
-##Context
+## Context
 I will create a landing page website for my favourite football team, which will contain a navbar that direct the user to sections of the page.
 
-##Outcomes
+## Outcomes
 
 The Learning Outcomes of this project is practice HTML and CSS languages. HTML  will be used to give a scheletron of the website, using sematic HTML (taking in account of tags such as footer, nav etc rather than just div everything) and use CSS to styles some of the element to make the website more attractive.
 
-##Technologies
+## Technologies
 - CSS
 - HTML
 
 
-##Credits
+## Credits
 
 Nicholas Gomis
 
