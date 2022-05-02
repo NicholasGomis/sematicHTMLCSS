@@ -8,13 +8,20 @@ p{
 }
 *{
         margin: 0%;
+        box-sizing:border-box;
 }
 
 header{
     margin:0;
     padding:0;
     width: 100%;
+    
 }
+
+/* #squad {
+    background-image: url("https://media-exp1.licdn.com/dms/image/C4D1BAQFCyjoUeTZN5Q/company-background_10000/0/1579184622552?e=2147483647&v=beta&t=9Y_vdmoaW3t0XO0UZuChHpt2AJOSf6kouynH7ARAYcw");
+    background-size: cover;
+} */
 
 #logo{
 display: inline;
@@ -25,6 +32,7 @@ display: inline;
     opacity: 1;
     width: 150px;
     height: 100px;
+    background-size: cover;
 }
 #welcome{
     text-align: center;
@@ -45,6 +53,7 @@ display: inline;
     position: absolute;
     margin-left: 25%;
     margin-top: 5%;
+    max-width: 600px;
   
 }
 
@@ -117,9 +126,9 @@ img{
     
 }
 
-.navbar ul{
+/* .navbar ul{
     list-style:none;
-}
+} */
 ul a {
 margin-left: 20px;
 color: black;
