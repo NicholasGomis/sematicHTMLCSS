@@ -1,3 +1,8 @@
+* {
+    margin: 0%;
+    box-sizing: border-box;
+}
+
 h1{
     color: black;
     font-size: 80px;
@@ -5,10 +10,6 @@ h1{
 
 p{
     font-size: 45px;
-}
-*{
-        margin: 0%;
-        box-sizing:border-box;
 }
 
 header{
@@ -18,10 +19,12 @@ header{
     
 }
 
-/* #squad {
+#imgx {
     background-image: url("https://media-exp1.licdn.com/dms/image/C4D1BAQFCyjoUeTZN5Q/company-background_10000/0/1579184622552?e=2147483647&v=beta&t=9Y_vdmoaW3t0XO0UZuChHpt2AJOSf6kouynH7ARAYcw");
     background-size: cover;
-} */
+    height: 1820px;
+    opacity: 0.5;
+}
 
 #logo{
 display: inline;
@@ -42,6 +45,20 @@ display: inline;
     position:relative;
   
 }
+
+#message{
+border: 5px solid black;
+width: 55%;
+z-index: 2;
+position: absolute;
+margin: 0 auto;
+position: absolute;
+margin-left: 25%;
+margin-top: 5%;
+max-width: 600px;
+
+}
+
 
 #welcome .content h1{
 
