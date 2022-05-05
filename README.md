@@ -21,9 +21,11 @@ I will create a landing page website for my favourite football team, which will 
 
 The learning outcomes of this project is practice HTML and CSS languages. 
 - Properly structure the website using sematic HTML (Nav, sections, figure etc).
-- Practice model box.
+- Practice box model.
 - Improve positioning of elements in the website.
 - Replicate the low fidelity wireframes.
+- Properly use class and ID
+
 
 ## Technologies
 - CSS ( CSS to styles some of the element to make the website more attractive)
